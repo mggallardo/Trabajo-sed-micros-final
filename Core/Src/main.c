@@ -144,10 +144,7 @@ void bajar_persiana(){
 	HAL_Delay(250);
 
 }
-void persiana_manual()
-{
 
-}
 
 void InitializeTimer()                  // Inicia el temporizador htim1
 {
